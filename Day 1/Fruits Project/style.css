@@ -1,0 +1,36 @@
+.main{
+    text-align: center;
+}
+#display-item{
+    margin-top: 2%;
+}
+#display-fruits{
+    font-size: 70px;
+}
+h1{
+    margin-bottom: 2%;
+}
+#guess{
+    padding: 10px 120px;
+}
+#guess:focus{
+    outline: none !important;
+}
+#submit{
+    background-color: red;
+    color: white;
+    padding: 11px 25px;
+    border: none;
+    cursor: pointer;
+}
+#start{
+    background-color: green;
+    color: white;
+    padding: 17px 50px;
+    border: none;
+    cursor: pointer;
+    display: block;
+    border-radius: 7px;
+    margin-bottom: 15px;
+    margin: 25px auto;
+}
