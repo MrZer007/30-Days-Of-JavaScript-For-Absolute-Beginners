@@ -1,0 +1,38 @@
+body{
+    background-color: black;
+    font-family: Mooli;
+}
+.container{
+    width: 50%;
+    margin-top: 50px;
+    margin-left: 25%;
+    box-shadow: -2px 2px 15px rgb(207, 206, 206);
+    text-align: center;
+    color: white;
+}
+.quote-container{
+    width: 65%;
+    padding-left: 16%;
+    padding-bottom: 10px;
+    padding-top: 15px;
+}
+#quote{
+    width: 100%;
+    font-size: 20px;
+}
+#generate-quote{
+    background-color: blue;
+    border: none;
+    padding: 12px 30px;
+    cursor: pointer;
+    color: white;
+    border-radius: 3px;
+    transition: 0.35s;
+    margin-bottom: 20px;
+}
+#generate-quote:hover{
+    background-color: rgb(28, 28, 204);
+}
+#author-name{
+    font-size: 18px;
+}
