@@ -7,3 +7,6 @@ A project that lets you guess the fruit name by displaying the fruit picture. An
 
 [DAY2](https://github.com/MrZer007/30-Days-Of-JavaScript-For-Absolute-Beginners/tree/main/Day%202/quote-generator)
 A project that allows you to generate quotes from an object array. 
+
+[DAY3](https://github.com/MrZer007/30-Days-Of-JavaScript-For-Absolute-Beginners/tree/main/Day%203/counter-app)
+A very simple counter app using vanilla JavaScript.
